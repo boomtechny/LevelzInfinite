@@ -1,0 +1,28 @@
+{
+  "name": "levelz-shopify",
+  "version": "1.0.0",
+  "description": "Shopify Node Express Application for Levelz Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "LevelzInfinite.git"
+  },
+  "keywords": [
+    "Shopify",
+    "Ecommerce",
+    "Node"
+  ],
+  "author": "Boomtech Kelly Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "cookie": "^0.3.1",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "nonce": "^1.0.4",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}
